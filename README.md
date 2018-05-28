@@ -1,4 +1,4 @@
-# README
+# mysql-docker
 
 ## Tested on
 
