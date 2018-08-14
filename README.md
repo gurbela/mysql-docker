@@ -2,7 +2,7 @@
 
 ## Tested on
 
-- macOS 10.12.3
+- macOS 10.13.6
 - Docker 17.06.2-ce
 - Docker Compose 1.14.0
 - MySQL Workbench 6.3
